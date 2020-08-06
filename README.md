@@ -28,6 +28,9 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
   <img alt="Mahbub Zulkarnain Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+##### Module
+- [Waktu](https://github.com/gomodul/waktu) (v0.0.1-alpha) ```go get github.com/gomodul/waktu```
+
 <!--
 ###### Open Source
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mahbubzulkarnain&repo=catatan-seekor-the-series)](https://github.com/mahbubzulkarnain/catatan-seekor-the-series)
