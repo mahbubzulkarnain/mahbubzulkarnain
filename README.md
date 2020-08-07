@@ -1,8 +1,9 @@
 # Hi there 👋
-
+```
 As a software engineer, I have experience since 2017. My expertise is NodeJS and Golang.
 I also use other frameworks of JavaScript such as ReactJs, VueJs, ExpressJs. also able to
 use React Native. For backend development, I also use Ruby on Rails for my last project.
+```
 
 <a href="https://twitter.com/mahbub_z">
   <img alt="Mahbub Zulkarnain Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -28,23 +29,9 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
   <img alt="Mahbub Zulkarnain Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-##### Module
+### Projects
+
+- [Mozze Cart](https://github.com/mozzecart) Open Source eCommerce Platform
+    
 - [Waktu](https://github.com/gomodul/waktu) (v0.0.1-alpha) ```go get github.com/gomodul/waktu```
-
-<!--
-###### Open Source
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mahbubzulkarnain&repo=catatan-seekor-the-series)](https://github.com/mahbubzulkarnain/catatan-seekor-the-series)
-
-**mahbubzulkarnain/mahbubzulkarnain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
