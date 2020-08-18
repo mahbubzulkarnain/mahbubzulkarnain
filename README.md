@@ -33,5 +33,4 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
 
 - [Mozze Cart](https://github.com/mozzecart) Open Source eCommerce Platform
     
-- [Waktu](https://github.com/gomodul/waktu) (v0.0.1-alpha) ```go get github.com/gomodul/waktu```
-  
+- [Waktu](https://github.com/gomodul/waktu) ([v0.0.1-alpha.2](https://github.com/gomodul/waktu/blob/master/CHANGELOG.md)) ```go get github.com/gomodul/waktu```
