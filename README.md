@@ -29,6 +29,10 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
   <img alt="Mahbub Zulkarnain Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+### Article
+
+- [Golang Time Format](https://dev.to/mahbubzulkarnain/golang-time-format-22j0)
+
 ### Projects
 
 - [Mozze Cart](https://github.com/mozzecart) Open Source eCommerce Platform
