@@ -17,12 +17,12 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
   <img alt="Mahbub Zulkarnain Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<a href="https://dev.to/mahbubzulkarnain">
-  <img alt="Mahbub Zulkarnain Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-
 <a href="https://instagram.com/mahbubzulkarnain">
   <img alt="Mahbub Zulkarnain Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://dev.to/mahbubzulkarnain">
+  <img alt="Mahbub Zulkarnain Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 
 
