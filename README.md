@@ -6,25 +6,24 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
 ```
 
 <a href="https://linkedin.com/in/mahbubzulkarnain">
-  <img alt="Mahbub Zulkarnain Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Mahbub Zulkarnain Linkdein" height="30" width="30"/>
 </a>
 
 <a href="https://medium.com/@mahbubzulkarnain">
-  <img alt="Mahbub Zulkarnain Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Mahbub Zulkarnain Medium" height="30" width="30"/>
 </a>
 
 <a href="https://www.facebook.com/mahbubzulkarnain">
-  <img alt="Mahbub Zulkarnain Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Mahbub Zulkarnain Facebook" height="30" width="30"/>
 </a>
 
 <a href="https://instagram.com/mahbubzulkarnain">
-  <img alt="Mahbub Zulkarnain Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Mahbub Zulkarnain Instagram" height="30" width="30"/>
 </a>
 
 <a href="https://dev.to/mahbubzulkarnain">
-  <img alt="Mahbub Zulkarnain Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mahbub Zulkarnain's DEV Profile" height="30" width="30">
 </a>
-
 
 ### Articles
 
