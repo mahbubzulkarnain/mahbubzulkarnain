@@ -6,23 +6,23 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
 ```
 
 <a href="https://linkedin.com/in/mahbubzulkarnain">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Mahbub Zulkarnain Linkdein" height="30" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Mahbub Zulkarnain Linkdein" width="22"/>
 </a>
 
 <a href="https://medium.com/@mahbubzulkarnain">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Mahbub Zulkarnain Medium" height="30" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Mahbub Zulkarnain Medium" width="22"/>
 </a>
 
 <a href="https://www.facebook.com/mahbubzulkarnain">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Mahbub Zulkarnain Facebook" height="30" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Mahbub Zulkarnain Facebook" width="22"/>
 </a>
 
 <a href="https://instagram.com/mahbubzulkarnain">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Mahbub Zulkarnain Instagram" height="30" width="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Mahbub Zulkarnain Instagram" width="22"/>
 </a>
 
 <a href="https://dev.to/mahbubzulkarnain">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mahbub Zulkarnain's DEV Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mahbub Zulkarnain's DEV Profile" width="22">
 </a>
 
 ### Articles
