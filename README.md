@@ -35,4 +35,4 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
 
 - [Rand](https://github.com/gomodul/waktu) ```go get github.com/gomodul/rand```
     
-- [Waktu](https://github.com/gomodul/waktu) ([v0.0.1-alpha.3](https://github.com/gomodul/waktu/blob/master/CHANGELOG.md)) ```go get github.com/gomodul/waktu```
+- [Waktu](https://github.com/gomodul/waktu) ```go get github.com/gomodul/waktu```
