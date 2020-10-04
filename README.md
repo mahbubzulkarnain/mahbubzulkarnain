@@ -26,8 +26,8 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
 </a>
 
 ### Articles
-
-- [Golang Time Format](https://dev.to/mahbubzulkarnain/golang-time-format-22j0)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Projects
 
