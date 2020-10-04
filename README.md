@@ -27,8 +27,8 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
 
 ### Articles
 <!-- BLOG-POST-LIST:START -->
-- [Golang Time Format](https://dev.to/mahbubzulkarnain/golang-time-format-22j0)
-- [ExpressJS](https://medium.com/@mahbubzulkarnain/expressjs-prerequisites-25b635e5528e?source=rss-73372c42bdc9------2)
+- [[Golang] Time Format](https://dev.to/mahbubzulkarnain/golang-time-format-22j0)
+- [ExpressJS Prerequisites](https://medium.com/@mahbubzulkarnain/expressjs-prerequisites-25b635e5528e?source=rss-73372c42bdc9------2)
 - [ExpressJS](https://medium.com/@mahbubzulkarnain/expressjs-3f8034239aef?source=rss-73372c42bdc9------2)
 <!-- BLOG-POST-LIST:END -->
 
