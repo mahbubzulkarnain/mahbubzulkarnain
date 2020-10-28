@@ -13,14 +13,6 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Mahbub Zulkarnain Medium" width="22"/>
 </a>
 
-<a href="https://www.facebook.com/mahbubzulkarnain">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Mahbub Zulkarnain Facebook" width="22"/>
-</a>
-
-<a href="https://instagram.com/mahbubzulkarnain">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Mahbub Zulkarnain Instagram" width="22"/>
-</a>
-
 <a href="https://dev.to/mahbubzulkarnain">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mahbub Zulkarnain's DEV Profile" width="22">
 </a>
@@ -34,6 +26,6 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
 
 ### Projects
 
-- [Mozze Cart](https://github.com/mozzecart) Open Source eCommerce Platform
+- [Mozze Cart](https://github.com/mozzecart) eCommerce Platform
 - [Rand](https://github.com/gomodul/waktu) ```go get github.com/gomodul/rand```
 - [Waktu](https://github.com/gomodul/waktu) ```go get github.com/gomodul/waktu```
