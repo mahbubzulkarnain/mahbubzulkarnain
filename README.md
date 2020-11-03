@@ -27,5 +27,5 @@ use React Native. For backend development, I also use Ruby on Rails for my last 
 ### Projects
 
 - [Mozze Cart](https://github.com/mozzecart) eCommerce Platform
-- [Rand](https://github.com/gomodul/waktu) ```go get github.com/gomodul/rand```
+- [Rand](https://github.com/gomodul/rand) ```go get github.com/gomodul/rand```
 - [Waktu](https://github.com/gomodul/waktu) ```go get github.com/gomodul/waktu```
